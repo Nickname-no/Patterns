@@ -1,0 +1,16 @@
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\Nick Petrenko\source\repos\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\Nick Petrenko\source\repos\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
