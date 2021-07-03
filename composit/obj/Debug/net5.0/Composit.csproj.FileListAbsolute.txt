@@ -1,0 +1,16 @@
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.csprojAssemblyReference.cache
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.AssemblyInfoInputs.cache
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.AssemblyInfo.cs
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.csproj.CoreCompileInputs.cache
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\Composit.exe
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\Composit.deps.json
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\Composit.runtimeconfig.json
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\Composit.runtimeconfig.dev.json
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\Composit.dll
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\ref\Composit.dll
+C:\Users\Nick Petrenko\source\repos\Composit\bin\Debug\net5.0\Composit.pdb
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.dll
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\ref\Composit.dll
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.pdb
+C:\Users\Nick Petrenko\source\repos\Composit\obj\Debug\net5.0\Composit.genruntimeconfig.cache
